@@ -7,9 +7,9 @@ contact_entries:
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
-We’d like to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+We would like to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly and your feedback is valuable for us.
+
+Hello 12345
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
