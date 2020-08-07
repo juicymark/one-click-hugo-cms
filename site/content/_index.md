@@ -4,10 +4,10 @@ subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
-  text: Kaldis is the coffee store for everyone who believes that great coffee
+  text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    profits are reinvested in their communities. Deploys via Github.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
